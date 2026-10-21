@@ -1,6 +1,3 @@
-# 2026-Autumn-Aberdeen-21-PetHealthManager
-Pet Health Manager is an Android-first app that keeps a complete, structured health record for your pets. Vaccination reminders and visit summaries stay on-device by default, with optional family sharing and AI-assisted analysis.
-
 # Pet Health Manager
 
 > A local-first health management app for pet owners.
@@ -44,7 +41,8 @@ The complete business plan is available in Chinese and English. The team is prep
 
 ## Repository Contents
 
-| File  | Description |
+| File | Description |
+| --- | --- |
 | `宠物健康管家商业计划书.docx` | Chinese business plan, current version, 11 chapters, 37 pages |
 | `Pet Health Manager Business Plan.docx` | English business plan, corresponding content, 41 pages |
 | `build_plan.py` | Generator for the Chinese business plan |
